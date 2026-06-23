@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Aman Agrawal 👋
 
-<!--
-**amanagrawal646-ux/amanagrawal646-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+📊 MIS Executive | Data Analyst
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I specialize in:
+- Advanced Excel
+- Power Query Automation
+- Power BI Dashboard Development
+- SQL Reporting
+- Basic VBA Automation
+
+## Skills
+
+### Data Analysis
+- Excel
+- Power Query
+- Power Pivot
+- Power BI
+- SQL
+
+### Reporting
+- MIS Reporting
+- Dashboard Development
+- Data Cleaning
+- Data Transformation
+
+## Current Learning
+- Advanced SQL
+- DAX
+- Data Modeling
+- Snowflake Fundamentals
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/aman-agrawal-86481a337/
+Email: amanagrawal646@gmail.com
